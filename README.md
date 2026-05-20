@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, eu sou [Luiz Regis] 👋
 
-<!--
-**Luizzregis/Luizzregis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
+- C#
+- C
+- Python
+- JavaScript
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Conhecimentos:
+- Programação Orientada a Objetos (POO)
+- Modelagem e Diagramas UML
+- Banco de Dados
+- Metodologias Ágeis (Scrum)
+
+🚀 Objetivo:
+Me desenvolver como desenvolvedor de software e construir projetos cada vez mais completos.
+
+## 📫 Contato
+- LinkedIn: linkedin.com/in/luiz-henrique-regis-
+- Email: luizhenriqueregis2021@gmail.com
